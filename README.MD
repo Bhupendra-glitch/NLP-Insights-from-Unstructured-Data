@@ -29,7 +29,7 @@ The project compares traditional lexicon-based methods with modern transformer-b
 
 ---
 
-## 📂 Project Structure
+
 
 
 
